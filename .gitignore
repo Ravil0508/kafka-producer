@@ -1,0 +1,12 @@
+target/*
+bin/*
+build/*
+.gradle/*
+.settings/*
+.classpath
+.project
+.factorypath
+.attach_pid*
+.idea
+*.iml
+/target
